@@ -1,4 +1,4 @@
-# Interview
+# JS Interview Material
 
 # Repository for MERN / React / JS developer Interview material.
 
