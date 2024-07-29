@@ -26,6 +26,6 @@
 24. What is global state management?
 25. what is forwardRef
 26. Lifecycle methods using useEffect
-27. Lifecycle of redux
+27. [Lifecycle of redux](https://dev.to/oahehc/redux-data-flow-and-react-component-life-cycle-11n)
 
 [For more React q's visit React Notes page](./ReactJS%20Notes.md)
