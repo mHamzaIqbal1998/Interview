@@ -4,7 +4,7 @@
 2. stateful vs stateless
 3. [useMemo vs React.memo vs useCallback](https://medium.com/@hassanzaidi4/react-memoisation-a-complete-practical-guide-to-react-memo-usememo-and-usecallback-2f2a18704f3b)
 4. HOC
-5. useEffect and cleanUp or how many stages does useEffect has?
+5. [useEffect and cleanUp or how many stages does useEffect has?](https://codedamn.com/news/frontend/useeffect-cleanup-function-in-react-js-complete-guide)
 6. When useEffect vs useLayoutEffect runs
 7. What is React?
 8. limitations of React?
