@@ -12,11 +12,12 @@
 
 # Web
 
-1. we can post data in get request then why should we follow protocol
-2. When a session is established?
-3. How a session is managed between client and server end?
-4. Page life cycle ASP?
-5. Does a controller method reloads on every HTTP call to controller?
-6. What least information is required to communicate with a system Remotely?
-7.  How do you implement / Handle State in a web application?
-8.  difference between a webapp and a desktop app?
+1. [Hashing vs Encryption vs Encoding.](https://www.geeksforgeeks.org/encryption-encoding-hashing/)
+2. we can post data in get request then why should we follow protocol
+3. When a session is established?
+4. How a session is managed between client and server end?
+5. Page life cycle ASP?
+6. Does a controller method reloads on every HTTP call to controller?
+7. What least information is required to communicate with a system Remotely?
+8.  How do you implement / Handle State in a web application?
+9.  difference between a webapp and a desktop app?
