@@ -81,5 +81,5 @@
 <br>
 
 # OOAD
-SOLID Design Principle
-Patterns: MOST importantly: (FACADE, SINGLETON, FACTORY, ABSTRACT FACTORY, OBSERVER)
+1. SOLID Design Principle
+2. Patterns: MOST importantly: (FACADE, SINGLETON, FACTORY, ABSTRACT FACTORY, OBSERVER)
